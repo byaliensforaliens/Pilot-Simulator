@@ -5,6 +5,7 @@ using UnityEngine;
 public class FollowPlayerX : MonoBehaviour
 {
     public GameObject plane;
+
     // Adjusted starting point for camera
     private Vector3 offset= new Vector3(21, 0, 0);
 
